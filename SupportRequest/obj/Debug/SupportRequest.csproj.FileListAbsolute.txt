@@ -1,0 +1,9 @@
+c:\users\elfguy\documents\visual studio 2013\Projects\SupportRequest\SupportRequest\bin\Debug\SupportRequest.exe.config
+c:\users\elfguy\documents\visual studio 2013\Projects\SupportRequest\SupportRequest\bin\Debug\SupportRequest.exe
+c:\users\elfguy\documents\visual studio 2013\Projects\SupportRequest\SupportRequest\bin\Debug\SupportRequest.pdb
+c:\users\elfguy\documents\visual studio 2013\Projects\SupportRequest\SupportRequest\obj\Debug\SupportRequest.csprojResolveAssemblyReference.cache
+c:\users\elfguy\documents\visual studio 2013\Projects\SupportRequest\SupportRequest\obj\Debug\SupportRequest.Form1.resources
+c:\users\elfguy\documents\visual studio 2013\Projects\SupportRequest\SupportRequest\obj\Debug\SupportRequest.Properties.Resources.resources
+c:\users\elfguy\documents\visual studio 2013\Projects\SupportRequest\SupportRequest\obj\Debug\SupportRequest.csproj.GenerateResource.Cache
+c:\users\elfguy\documents\visual studio 2013\Projects\SupportRequest\SupportRequest\obj\Debug\SupportRequest.exe
+c:\users\elfguy\documents\visual studio 2013\Projects\SupportRequest\SupportRequest\obj\Debug\SupportRequest.pdb
