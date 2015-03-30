@@ -13,8 +13,8 @@ using Microsoft.Win32;
 [assembly: AssemblyDescription("NodePoint Sample Ticketing App")]
 [assembly: AssemblyProduct("Support Request")]
 [assembly: AssemblyCopyright("(C) 2015 Patrick Lambert")]
-[assembly: AssemblyVersion("0.0.1.0")]
-[assembly: AssemblyFileVersion("0.0.1.0")]
+[assembly: AssemblyVersion("1.0.0")]
+[assembly: AssemblyFileVersion("1.0.0")]
 
 namespace SupportRequest
 {
