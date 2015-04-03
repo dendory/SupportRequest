@@ -6,3 +6,6 @@ A sample NodePoint ticket client. To try it out, simply download the setup file 
 
 To use it in your own NodePoint installation, download the `bin` folder and edit the `install.bat` file with your own settings.
 
+#### Sample:
+
+![](sample.jpg)
